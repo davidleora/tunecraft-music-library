@@ -1,0 +1,10 @@
+{
+  "name": "tunecraft-music-library",
+  "version": "1.0.0",
+  "description": "A web application for managing music libraries and creating custom playlists",
+  "main": "index.js",
+  "repository": "https://github.com/davidleora/tunecraft-music-library",
+  "author": "David Leora",
+  "license": "MIT",
+  "private": true
+}
