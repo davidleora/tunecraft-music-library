@@ -1,2 +1,2 @@
-# tunecraft-music-library
-A web application for managing music libraries and creating custom playlists
+# Tunecraft Music Library 【 IN PROGRESS 】
+A web application for managing music libraries and creating custom playlists.
